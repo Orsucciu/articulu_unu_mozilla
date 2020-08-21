@@ -13,3 +13,33 @@ di u statu, è u futuru di u sò navigatore, firefox
 di u statu di l'internet avà, è in particulare di a pusizione di Chrome
 
 è in fine; parchì hè impurtante ancu pà l'utilisatori ~nurmale~
+
+
+A fundazione Mozilla perde 250 di è so impiegati xxxxx Piuttostu qualcosa annantu u statu di a cuncurrenza, è di l'avvene
+
+<intro>
+
+Pocu tempi fà, a corporazione (?) Mozilla (micca fundazione!), i (capi ? patroni?) di u navigatore (o browser, cum'è litaliani?) Firefox, ani spartu un cummunicatu pà fà sapè ch'edda pirdia dui centi cinquantu di è so impiegati,
+in parte per culpa di u COVID.
+Issa nutizia fà cresce un angoscia sopr'a a saluta immediata di a corporazione, mà ancu di più sopr'a l'avvene di Firefox, è ancu quellu di u web cum'è 
+lu cuniscimu. Mà parchì ?
+
+<pezzu di storia> 
+
+(necessariu di spiicà ciò c'hè un navigatore?) 
+
+A l'iniziu, un c'era nudda. L'internet era fattu d'emails, di ducumenti sparti... Mà pocu à pocu, u sò sviluppu, è a creazione di e Markup Languages, ani fattu 
+nasce software specifiche pà visualizali. (((per pietà verificate bè i mio sbagli))). Trà l'anni, si sò cumplessificati (passendu dà versioni text-based
+a motori cumpletamenti grafichi) è so diventati prughjetti troppu maiò pà esse trattati d'una personna. E dunque, sò divintati affare d'imprese (company?)
+cum'è IBM, Netscape.... Issa diversità era pussibule (pezzu impurtante) grazie à u W3C, chi scrivia (è scrive sempre) è web standards, pà assicurassi chì
+una pagina viaghja di a listessa manera cù tutti i navigatori. Mà abbastanza rapidamente, u famosu Microsoft, cù u sò ancu più famosu Internet Explorer,
+hà scuzzulatu st'equilibriu cù pratiche anti cuncurrenziale (hè statu castigatu pà quessu). Issu statu di guasgi-monopoly (???) era ultimamentu tossicu pà l'ecosistemu,
+è preghjudiziosu pè l'utilisatori : a forza di u monopoly encouraghjava a esce di u rispettu strettu di è Standards (cosu w3c), facendu di IE un sunniacciu
+pà è sviluppadori è un periculu, trà è so numarosi brezze di securità.
+U sò cuncurrenti principalu, Netscape, ch'era nanzu u navigatore u più utilizzatu, hà apertu è so urighjine (open source ? micca open surghjenti ò ghjenti)
+è hè diventatu Firefox. A sò pupularità criscia sinnu a 2008 : l'annu quandu hè statu publicatu Google Chrome.
+
+(hè longu ?)
+(importa, pensu, di mustrà chi duie volte, c'hè un equilibriu chi hè statu scuzzulatu dà una empresa privata, quandu mozilla hè senza scopu di prufittu)
+
+
