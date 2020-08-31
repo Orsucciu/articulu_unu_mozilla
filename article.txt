@@ -42,4 +42,13 @@ U sò cuncurrenti principalu, Netscape, ch'era nanzu u navigatore u più utilizz
 (hè longu ?)
 (importa, pensu, di mustrà chi duie volte, c'hè un equilibriu chi hè statu scuzzulatu dà una empresa privata, quandu mozilla hè senza scopu di prufittu)
 
+Dapoi à quì, Chrome hè diventatu u novu internet explorer, sta volta cù Google cumè maestru, <in locu> di Microsoft. Hè veru, u so core "Chromium" hè apertu
+('ss'ossatura hè utilizzata in Opera, in Edge,.... Hè pussibule pà n'importa quale di piglià lu è fà u so propiu navigatore) mà a pusizione di Google l'hà
+permesu di esce di e standardi (google experiments,...) ò di creà è so propie (AMP,...)
 
+(assai scuru nò? un parleremu maì di farfalle/baravulelle ò di bedde cose?)
+
+Mozilla, trà è so missione, è sempre statu à u ladu di u populu (????). Incù u sò impiegnu pè un internet liberu è apertu (Mozilla, standardi,...)
+u spartu di è sò cuniscenze (MDN, a bibbiuteca d'Alessandria pà è svillupadore), a lingua Rust (chì s'impone di più in più).... 
+
+A morta d'un attore cusì saria una catastrofa immediatu, è ancu di più, in un avvene cù Google cumè solu maestru.... 
