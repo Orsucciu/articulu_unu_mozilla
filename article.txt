@@ -3,6 +3,7 @@ st'articulu parlarà di a fundazione mozilla, dopu à a perta di 250 di è sò i
 
 (https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/)
 (https://arstechnica.com/information-technology/2020/08/firefox-maker-mozilla-lays-off-250-workers-says-covid-19-lowered-revenue/)
+https://itsfoss.com/mozilla-struggle/
 
 di u sò travaddu cu u publicu (a famosa MDN, u travaddu di prutezione di è libertà...)
 
@@ -20,7 +21,7 @@ A fundazione Mozilla perde 250 di è so impiegati xxxxx Piuttostu qualcosa annan
 <intro>
 
 Pocu tempi fà, a corporazione (?) Mozilla (micca fundazione!), i (capi ? patroni?) di u navigatore (o browser, cum'è litaliani?) Firefox, ani spartu un cummunicatu pà fà sapè ch'edda pirdia dui centi cinquantu di è so impiegati,
-in parte per culpa di u COVID.
+in parte per culpa di u COVID (A fundazione campa di a publicità è d'accordi cummerciali, chì sò stati ridutti). https://www.mozilla.org/en-US/foundation/annualreport/2018/
 Issa nutizia fà cresce un angoscia sopr'a a saluta immediata di a corporazione, mà ancu di più sopr'a l'avvene di Firefox, è ancu quellu di u web cum'è 
 lu cuniscimu. Mà parchì ?
 
@@ -32,7 +33,10 @@ A l'iniziu, un c'era nudda. L'internet era fattu d'emails, di ducumenti sparti..
 nasce software specifiche pà visualizali. (((per pietà verificate bè i mio sbagli))). Trà l'anni, si sò cumplessificati (passendu dà versioni text-based
 a motori cumpletamenti grafichi) è so diventati prughjetti troppu maiò pà esse trattati d'una personna. E dunque, sò divintati affare d'imprese (company?)
 cum'è IBM, Netscape.... Issa diversità era pussibule (pezzu impurtante) grazie à u W3C, chi scrivia (è scrive sempre) è web standards, pà assicurassi chì
-una pagina viaghja di a listessa manera cù tutti i navigatori. Mà abbastanza rapidamente, u famosu Microsoft, cù u sò ancu più famosu Internet Explorer,
+una pagina viaghja di a listessa manera cù tutti i navigatori (di sta manera, un navigatore un hè chi un interpretazione di tutte isse regule).
+https://diana-adrianne.com/purecss-francine/ <= 5 fiure pà mustrà cumè u motore cambià a sperienza di a navigazione
+
+Mà abbastanza rapidamente, u famosu Microsoft, cù u sò ancu più famosu Internet Explorer,
 hà scuzzulatu st'equilibriu cù pratiche anti cuncurrenziale (hè statu castigatu pà quessu). Issu statu di guasgi-monopoly (???) era ultimamentu tossicu pà l'ecosistemu,
 è preghjudiziosu pè l'utilisatori : a forza di u monopoly encouraghjava a esce di u rispettu strettu di è Standards (cosu w3c), facendu di IE un sunniacciu
 pà è sviluppadori è un periculu, trà è so numarosi brezze di securità.
@@ -42,13 +46,13 @@ U sò cuncurrenti principalu, Netscape, ch'era nanzu u navigatore u più utilizz
 (hè longu ?)
 (importa, pensu, di mustrà chi duie volte, c'hè un equilibriu chi hè statu scuzzulatu dà una empresa privata, quandu mozilla hè senza scopu di prufittu)
 
-Dapoi à quì, Chrome hè diventatu u novu internet explorer, sta volta cù Google cumè maestru, <in locu> di Microsoft. Hè veru, u so core "Chromium" hè apertu
+Dapoi à quì, Chrome hè diventatu u novu internet explorer, sta volta cù Google cumè maestru, in locu di Microsoft. Hè veru, u so core "Chromium" hè apertu
 ('ss'ossatura hè utilizzata in Opera, in Edge,.... Hè pussibule pà n'importa quale di piglià lu è fà u so propiu navigatore) mà a pusizione di Google l'hà
-permesu di esce di e standardi (google experiments,...) ò di creà è so propie (AMP,...)
+permesu di esce di e standardi (google experiments,... https://experiments.withgoogle.com/collection/chrome https://www.theverge.com/2018/1/4/16805216/google-chrome-only-sites-internet-explorer-6-web-standards) ò di creà è so propie (AMP,... https://en.wikipedia.org/wiki/Accelerated_Mobile_Pages)
 
 (assai scuru nò? un parleremu maì di farfalle/baravulelle ò di bedde cose?)
 
-Mozilla, trà è so missione, è sempre statu à u ladu di u populu (????). Incù u sò impiegnu pè un internet liberu è apertu (Mozilla, standardi,...)
+Mozilla, trà è so missione, s'hè sempre prisintatu cum'è u custodiu d'un Internet libaru, apertu, è rispetuosu di a privacy (private by default).
 u spartu di è sò cuniscenze (MDN, a bibbiuteca d'Alessandria pà è svillupadore), a lingua Rust (chì s'impone di più in più).... 
 
-A morta d'un attore cusì saria una catastrofa immediatu, è ancu di più, in un avvene cù Google cumè solu maestru.... 
+A so sparizione, è senza altre cumpetitore seriosu, pudaria fà di Google l'unicu capu dirighjendu l'avvene d'internet. 
